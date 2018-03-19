@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AmazingRacing</string>
+    <string name="start">Start!</string>
+    <string name="point">Point</string>
+    <string name="title">AmazingRace</string>
+</resources>

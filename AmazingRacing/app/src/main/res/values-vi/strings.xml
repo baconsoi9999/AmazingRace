@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AmazingRacing</string>
+    <string name="start">Bắt Đầu !</string>
+    <string name="point">Điểm</string>
+    <string name="title">Trò Chơi Kỳ Thú</string>
+</resources>
